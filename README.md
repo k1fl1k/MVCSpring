@@ -40,7 +40,3 @@ This project is a simple blog application built using Spring MVC, with two main 
 ## API Endpoints
 
 Open your web browser and navigate to `http://localhost:8080/posts` to view the list of posts.
-
-## Custom Error Handling
-
-- **404 Error**: Displays a custom `404` page if a route or resource is not found.
